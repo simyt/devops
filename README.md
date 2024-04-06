@@ -2,4 +2,5 @@
 
 Normal text
 
-*Bullet points
+* Bullet points
+
